@@ -17,5 +17,6 @@ public class App {
         System.out.println(new App().getGreeting());
         int resultado = sumar(2, 3);
         System.out.println("La suma de 2 + 3 es: " + resultado);
+        System.out.println("La suma de 3 + 4 es: " + sumar(3, 4));
     }
 }
